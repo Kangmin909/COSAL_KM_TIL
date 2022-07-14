@@ -11,3 +11,5 @@ Velog Markdown 작성법 : <https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB
 * 오늘은 계절학기로 진행 중인 실전코딩1에서 학습한 Git과 Docker 관련 내용을 팀원들과 복습하고 서로 질문한 후 TIL을 작성하였다.   
 Git 정리 <https://velog.io/@dlrkdals909/Git>   
 Docker 정리 <https://velog.io/@dlrkdals909/Docker>
+
+# 2022.07.14 - 두번째 모임
