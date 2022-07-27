@@ -23,3 +23,5 @@ Docker 정리 <https://velog.io/@dlrkdals909/Docker>
 * JavaScript를 사용하여 백엔드 프레임워크인 node.js를 복습하고 사용해보았다.
 * Maven 과 Jenkins를 사용하여 빌드 자동화를 통한 CI/CD를 복습하고 추가 기능들을 공부해서 사용해보았다.
 * Java Spring을 복습하고 팀원들과 부족한 부분을 서로 보충해주면서 내일 있을 기말시험을 준비할 수 있었다.
+
+# 2022.07.27 - 네번째 모임
